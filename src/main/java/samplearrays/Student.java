@@ -9,7 +9,7 @@ class Student {
     private int age;
     private int grade; // 0..20 or 0..100 as you prefer
 
-    // keep counter private; expose getter only.
+    // keep counter private; expose getter only
     private static int numStudent = 0;
 
     public Student(int id, String name) {
