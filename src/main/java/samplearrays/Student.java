@@ -26,7 +26,7 @@ class Student {
         this.grade = grade;
     }
 
-    // Getters / setters
+    // Getters / setters.
     public int getId() { return id; }
     public String getName() { return name; }
     public int getAge() { return age; }

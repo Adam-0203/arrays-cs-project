@@ -26,7 +26,7 @@ public class DogShelter {
 
     public static void main(String[] args) {
 
-        // Adding counts for three types of dogs
+        // Adding counts for three types of dogs.
         dogCounts[0] = 15;
         dogCounts[1] = 30;
         dogCounts[2] = 20;

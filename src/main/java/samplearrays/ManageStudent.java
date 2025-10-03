@@ -105,7 +105,7 @@ public class ManageStudent {
 
     // 1) Create an Array of Students + demos for all tasks
     public static void main(String[] args) {
-        // Create & initialize array of 5 students
+        // Create & initialize array of 5 students.
         Student student1 = new Student(1,"Hamid",18,12);
         Student student2 = new Student(2,"Adam",17,17);
         Student student3 = new Student(3,"Karim",18,14);

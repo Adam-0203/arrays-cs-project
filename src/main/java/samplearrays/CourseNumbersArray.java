@@ -16,6 +16,7 @@ public class CourseNumbersArray {
         for (int i=0; i<lista.length; i++){
             System.out.print(lista[i]+" ");
         }
+
         System.out.println();
 
     }
